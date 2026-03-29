@@ -19,3 +19,9 @@ Link del dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data?s
 # Cómo ejecutar el notebook
 Subir el Proyecto a Google Colab
 Ejecutar el Notebook
+
+# Modelos utilizados
+Se han probado 3 modelos.
+1. XgBoost
+2. LightGBM
+3. CatBoost
