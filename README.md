@@ -13,7 +13,7 @@ Link del dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data?s
 # Pasos
  1. Descrgar el zip
  2. Descomprimir 
- 3. Crear una carpeta en el Root de GoogleDrive con nombre *DCDAVG15*
+ 3. Crear una carpeta en el Root de GoogleDrive con nombre **DCDDyAAG15**
  4. Subir el csv creditcard.csv a la carpeta creada.
 
 # Cómo ejecutar el notebook
