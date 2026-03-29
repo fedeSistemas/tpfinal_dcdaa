@@ -10,7 +10,7 @@ Dado el tamaño del dataset, se deberá descargar y luebo subir a google drive
 
 Link del dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data?select=creditcard.csv
 
-## Pasos
+# Pasos
  1. Descrgar el zip
  2. Descomprimir 
  3. Crear una carpeta en el Root de GoogleDrive con nombre *DCDAVG15*
