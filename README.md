@@ -17,9 +17,9 @@ Link del dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data?s
  4. Subir el csv creditcard.csv a la carpeta creada.
 
 # Cómo ejecutar el notebook
-Subir el Proyecto a Google Colab.
-Seleccionar el entorno de ejecución **v5e-1 TPU** para una ejecución más veloz.
-Ejecutar el Notebook.
+1. Subir el Proyecto a Google Colab.
+2. Considere utilizar el entorno de ejecución **v5e-1 TPU** para una ejecución más veloz.
+3. Ejecutar el Notebook.
 
 # Modelos utilizados
 Se han probado 3 modelos.
