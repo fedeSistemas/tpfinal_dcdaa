@@ -1,7 +1,7 @@
 # DCDDyAA - Unidad 9 - Grupo 15 - Entrega Trabajo Final
 Repositorio del Tp Final de la diplomatura
 
-# 📂 Datasets utilizados
+# Dataset utilizado
 Se utliza el dataset Credit Card Fraud Detection de Kaggle.
 Está compuesto por datos anonimizados de transacciones con tarjeta de crédito
 
